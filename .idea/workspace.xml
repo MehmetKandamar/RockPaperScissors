@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17bd5de8-6f66-4c9c-a7ba-d8beae1ad9b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1lhx19uo1MfIgmtiFdMeL0WVfy2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Converter/index.php" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17bd5de8-6f66-4c9c-a7ba-d8beae1ad9b0" name="Default Changelist" comment="" />
+      <created>1608062906946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608062906946</updated>
+      <workItem from="1608062908289" duration="788000" />
+      <workItem from="1608108048140" duration="1364000" />
+      <workItem from="1608118265464" duration="1505000" />
+      <workItem from="1608132348229" duration="3062000" />
+      <workItem from="1608142042092" duration="5629000" />
+      <workItem from="1608199030242" duration="179000" />
+      <workItem from="1608201516445" duration="5624000" />
+      <workItem from="1608210715125" duration="4765000" />
+      <workItem from="1608223904834" duration="3617000" />
+      <workItem from="1608231956478" duration="946000" />
+      <workItem from="1608272632382" duration="98000" />
+      <workItem from="1608279406713" duration="3179000" />
+      <workItem from="1608572263172" duration="1616000" />
+      <workItem from="1608583281513" duration="30000" />
+      <workItem from="1608583807086" duration="32000" />
+      <workItem from="1608745267480" duration="1041000" />
+      <workItem from="1608749628893" duration="9000" />
+      <workItem from="1608841634456" duration="4571000" />
+      <workItem from="1608886397989" duration="300000" />
+      <workItem from="1608886730994" duration="462000" />
+      <workItem from="1609224497510" duration="74000" />
+      <workItem from="1609230380180" duration="462000" />
+      <workItem from="1609266950955" duration="807000" />
+      <workItem from="1609267794971" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
